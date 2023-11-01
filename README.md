@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Station bathymetry
 The purpose of the script is to check the bathymetry at a station in preparation of a CTD cast. The main concern is that the CTD might drift upgradient, into the topography, and hit the bottom. Knowing the bathymetry a priori helps avoiding such issue, and can help 
 - informing the bridge about what direction to drift (the resolution of the bathymetry used here is often higher than the one of the nautical charts available onboard);
@@ -29,3 +30,23 @@ This can be run using:
 
 
 ## Contributions
+=======
+# station_bathymetry
+Plot lat/lon bathymetry at station
+
+## Installation
+
+To install, clone the repository, navigate to `station_bathymetry`, and run:
+
+    python3 -m pip install .
+
+It is recommended to use a virtual environment.
+
+## Getting Started
+
+The plotting tool takes the form of a jupyter notebook
+`plot_bathymetry_at_station.ipynb`.
+This can be run using:
+
+    jupyter notebook plot_bathymetry_at_station.ipynb
+>>>>>>> 438001da2f9f0a213543dc3534711ed5bae22a87
