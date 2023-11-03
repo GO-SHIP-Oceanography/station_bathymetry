@@ -33,7 +33,7 @@ Please check the jupyter notebook for details about the code steps, input files 
  
 
 
-### Contributions
+### Contribution Guidelines
 Contributions and collaborations are welcomed from anyone with an interest in [GO-SHIP](https://www.go-ship.org/), and more in general ship-based hydrographic observations and python.
 
 For bugs, feature requests, and clear suggestions for improvement please [open an issue](https://github.com/GO-SHIP-Oceanography/station_bathymetry/issues).
